@@ -17,10 +17,6 @@
 
 <br />
 
-## Languages, Frameworks, and Tools:
-<img align="left" width="30px" src="https://cdn.auth0.com/blog/optimizing-react/logo.png" />
-
-<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
