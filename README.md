@@ -8,6 +8,6 @@
 - 👯  I’m looking to collaborate on open source
 - 💬  Ask me about sports, tech, or anything at all
 - 📫  How to reach me: [email](mailto:biermannick83@gmail.com)
-- 🖇  ...or connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-bierman-950970105/ "Nick Bierman's LinkedIn")
-- 
+- 🖇    Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-bierman-950970105/ "Nick Bierman's LinkedIn")
+- 😇  ...or check out my [AngelList](https://angel.co/u/nicholas-jake-bierman "Nick Bierman's AngelList")
 - ⚡ Fun fact: I have a Dachshund named Rambo 🌭
