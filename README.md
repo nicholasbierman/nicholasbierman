@@ -1,4 +1,6 @@
 ## Hello World, I'm Nick 🤝
+[![HitCount](http://hits.dwyl.com/nicholasbierman/nicholasbierman.svg)](http://hits.dwyl.com/nicholasbierman/nicholasbierman)
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="500" height="320" />
 
@@ -13,9 +15,16 @@
 - 👋  Check out my [HandShake](https://app.joinhandshake.com/users/30597641 "Nick Bierman's HandShake")
 - ⚡ Fun fact: I have a Dachshund named Rambo 🌭
 
+<br />
+
+## Languages, Frameworks, and Tools:
+<img align="left" width="30px" src="https://cdn.auth0.com/blog/optimizing-react/logo.png" />
+
+<br />
+
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="Nick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nicholasbierman&show_icons=true&count_private=true&theme=chartreuse-dark" />
+  <img align="left" alt="React" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 </details>
 
 <details>
@@ -23,4 +32,3 @@
   <img align="center" alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasbierman&langs_count=10&theme=chartreuse-dark" />
 </details>
 
-[![HitCount](http://hits.dwyl.com/nicholasbierman/nicholasbierman.svg)](http://hits.dwyl.com/nicholasbierman/nicholasbierman)
