@@ -13,7 +13,6 @@
 - 👋  Check out my [HandShake](https://app.joinhandshake.com/users/30597641 "Nick Bierman's HandShake")
 - ⚡ Fun fact: I have a Dachshund named Rambo 🌭
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
   <img align="center" alt="Nick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nicholasbierman&show_icons=true&count_private=true&theme=chartreuse-dark" />
-</details>
+
