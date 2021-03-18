@@ -24,7 +24,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="React" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+  <img align="center" alt="React" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 </details>
 
 <details>
