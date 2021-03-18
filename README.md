@@ -9,5 +9,5 @@
 - 🤔  I’m looking for help with ...
 - 💬  Ask me about sports, tech, or anything at all
 - 📫  How to reach me: [email](mailto:biermannick83@gmail.com)
-- 🖇  ...or connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-bierman-950970105/ "Nick Bierman's LinkedIn)
+- 🖇  ...or connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-bierman-950970105/ "Nick Bierman's LinkedIn")
 - ⚡ Fun fact: I have a Dachshund named Rambo 🌭
