@@ -20,7 +20,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="center" alt="React" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+  <img align="center" alt="Nick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nicholasbierman&show_icons=true&count_private=true&theme=chartreuse-dark" />
 </details>
 
 <details>
