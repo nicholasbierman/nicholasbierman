@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hello GitHub, I'm Nick 👋
 
 <!--
 **nicholasbierman/nicholasbierman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+- 💼 You can find my [projects here](https://nicholasbierman.github.io/ "Nick Bierman's Portfolio")
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
