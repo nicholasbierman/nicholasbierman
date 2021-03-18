@@ -20,5 +20,5 @@
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-  <img align="right" alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasbierman&langs_count=10&layout=compact&theme=chartreuse-dark" />
+  <img align="center" alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasbierman&langs_count=10&layout=compact&theme=gradient" />
 </details>
