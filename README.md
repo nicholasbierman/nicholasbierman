@@ -23,4 +23,4 @@
   <img align="center" alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasbierman&langs_count=10&theme=chartreuse-dark" />
 </details>
 
-[![HitCount](http://hits.dwyl.com/nicholasbierman/heatcheck.svg)](http://hits.dwyl.com/nicholasbierman/heatcheck)
+[![HitCount](http://hits.dwyl.com/nicholasbierman/nicholasbierman.svg)](http://hits.dwyl.com/nicholasbierman/nicholasbierman)
