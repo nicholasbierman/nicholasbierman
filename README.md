@@ -14,5 +14,11 @@
 - ⚡ Fun fact: I have a Dachshund named Rambo 🌭
 
 <details>
+  <summary>:zap: GitHub Stats</summary>
   <img align="center" alt="Nick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nicholasbierman&show_icons=true&count_private=true&theme=chartreuse-dark" />
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  <img align="right" alt="Nick's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasbierman&langs_count=10&layout=compact&theme=chartreuse-dark" />
 </details>
