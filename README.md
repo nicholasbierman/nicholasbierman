@@ -1,4 +1,5 @@
 ## Hello World, I'm Nick 🤝
+<a href="https://www.linkedin.com/in/nicholas-bierman-950970105/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="500" height="320" />
 
