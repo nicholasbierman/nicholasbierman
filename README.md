@@ -7,14 +7,12 @@
 
 - 💼  You can find my [projects here](https://nicholasbierman.github.io/ "Nick Bierman's Portfolio")
 - 🔭  I’m currently working on an [NBA Shot Tracker](https://heatcheck-aa.herokuapp.com/ "HeatCheck")
-- 🌱  I’m currently learning GraphQL
+- 🌱  I’m currently learning all about search
 - 👯  I’m looking to collaborate on open source
 - 💬  Ask me about sports, tech, or anything at all
 - 📫  How to reach me: [email](mailto:biermannick83@gmail.com)
 - 🖇  Connect with me on [LinkedIn](https://www.linkedin.com/in/nicholas-bierman-950970105/ "Nick Bierman's LinkedIn")
-- 😇  Check out my [AngelList](https://angel.co/u/nicholas-jake-bierman "Nick Bierman's AngelList")
-- 👋  Check out my [HandShake](https://app.joinhandshake.com/users/30597641 "Nick Bierman's HandShake")
-- ⚡ Fun fact: I have a Dachshund named Rambo 🌭
+- ⚡ Fun fact: I have a Dachshund named Rambo
 
 <br />
 
